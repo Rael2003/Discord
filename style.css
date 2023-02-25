@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+
+:root{
+    --font-primary: "gg sans","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    --font-display: "gg sans","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    --font-headline: "ABC Ginto Nord","Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+body{
+    background-color: #5865f2;
+    background: #fff;
+    color: #000;
+    font-weight: inherit;
+    font-style: inherit;
+    font-family: inherit;
+}
+ul{
+    display:flex;
+    width: 50%;
+    justify-content: space-around;
+    margin: 0px 0 0 350px ;
+    height: 90px;
+    align-items: center;
+    
+}
+.container{
+    color: #fff;
+    z-index: 20;
+    position: relative;
+}
+li{
+    list-style-type: none;
+    font-weight: bold;
+}
+h1{
+    margin: 0 auto;
+    text-align: center;
+    width: 500px;
+    font-size: 70px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    font-family: 'Paytone One', sans-serif;
+}
+p{
+    margin: 0 auto ;
+    text-align: center;
+    width: 800px;
+    font-size: 21px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    font-family: "gg sans","Noto Sans"
+}
+
+header{
+    background-color: #3d4cf3;
+    height: 600px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.back{
+    z-index: 10;
+    position: absolute;
+    height: 700px;
+    margin: 46px 0 0 0px;
+    width: 1671px;
+}
+.right{
+    z-index: 10;
+    position: absolute;
+    margin: 248px 0 0 -230px;
+}
+
+.left{
+    z-index: 10;
+    position: absolute;
+    
+    margin: 240px 0 0 1150px;
+}
+.logo{
+    z-index: 10;
+    position: absolute;
+    
+    margin: 33px 0 0 200px;
+    width: 110px;
+}
+#login{
+    background-color: #fff;
+    border: 2px solid #fff;
+    border-radius: 15px;
+    padding: 5px;
+    text-decoration: none;
+    color: #000;
+    margin: -60px 1300px;
+    position: absolute;
+}
+#download{
+    background-color: #fff;
+    border: 5px solid #fff;
+    border-radius: 45px;
+    padding: 7px;
+    text-decoration: none;
+    color: #000;
+    margin: 60px 550px;
+    position: absolute;
+}
+#abrir{
+    background-color: #23272a;
+    border: 5px solid #23272a;
+    border-radius: 45px;
+    text-decoration: none;
+    color:#fff;
+    margin: 60px 780px;
+    height: 40px;
+    position: absolute;
+    width: 225px;
+    display: flex;
+    align-items: center;
+}
