@@ -1,0 +1,61 @@
+[
+    {
+        "src": "https://theme.zdassets.com/theme_assets/678183/1bd76d1fd516f8dacd3c7422a8ceb929ef2502d9.svg",
+        "titulo":"Anuncios",
+        "descricao":"Estamos de olho no que está acontecendo. Aqui está o que nós sabemos que não está certo." 
+    }
+    ,
+    {
+        "src": "https://theme.zdassets.com/theme_assets/678183/8c6c6469bdca01e05d2870e6d373c1d80e290255.svg",
+        "titulo":"Interface do Discord",
+        "descricao":"PRA QUE SERVE ESSE BOTÃO!?!!" 
+    }
+    ,
+    {
+        "src": "https://theme.zdassets.com/theme_assets/678183/3da6524afd9979b44c5f6ceaf19e812c204ad74e.svg",
+        "titulo": "Configuração de conta",
+        "descricao": "Você é importante e sua conta também."
+    }
+    ,
+    {
+        "src":"https://theme.zdassets.com/theme_assets/678183/35f736c34c81d953054d0c1e202f71c8094f8fbf.svg",
+        "titulo":"Começando",
+        "descricao":"Comece com o pé direito"
+    }
+    ,
+    {
+        "src":"https://theme.zdassets.com/theme_assets/678183/33f0bd0c3a2c58763cb0404a18bb38da48fc289d.svg",
+        "titulo":"Configuração de servidor",
+        "descricao":"Quase tao emocionante quanto decoração de interiores"
+    }
+    ,
+    {
+        "src":"https://theme.zdassets.com/theme_assets/678183/dd93acfbff40b1ea53f2b4e8fa51ac142486bd13.svg",
+        "titulo":"Programas Comunitários",
+        "descricao": "Hype para HypeSquaders, party para Parceiros"
+    }
+    ,
+    {
+        "src":"https://theme.zdassets.com/theme_assets/678183/d7415f17818f8caabf5d98099171b227201a3e41.svg",
+        "titulo":"Nitro",
+        "descricao":"Por favor, não compre até cair. Deixe a gente te ajudar."
+    }
+    ,
+    {
+        "src":"https://theme.zdassets.com/theme_assets/678183/e5bd3c63530b0a8e55b406528f2fd9d61b8bd923.svg",
+        "titulo":"Formas de Pagamento",
+        "descricao":"Aquela sensação quando você olha o seu saldo."
+    }
+    ,
+    {
+        "src":"https://theme.zdassets.com/theme_assets/678183/6f28e83ed890200c649526472dec1e8f593fe1dd.svg",
+        "titulo":"Confiança & Segurança",
+        "descricao":"Mantenha as coisas sãs e salvas para você e seus amigos."
+    }
+    ,
+    {
+        "src":"https://theme.zdassets.com/theme_assets/678183/1883060a5132c470528a20c1cfe42976e7c167ca.svg",
+        "titulo":"F.A.Q.s",
+        "descricao":"Tudo o que você puder fazer num auto-atendimento."
+    }
+]
